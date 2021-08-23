@@ -3,4 +3,4 @@ This is a repo for a gitHub tutorual
 
 ## subheader 
 
-Watch tutorial on youtue 
+Watch tutorial on youtube.  
